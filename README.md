@@ -1,2 +1,1 @@
-# MOSCA-STRAPPING-MACHINE
-Mosca heater and heater controller project
+Mosca strapping heating system was redesigned and programmed , Heater tongue was fully conceptualized ,redesigned by us and to our  and our branch designed product is being used in various other branches saving approximately 8 lakhs and there is pending order for more from other branch also
